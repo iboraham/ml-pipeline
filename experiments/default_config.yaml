@@ -1,0 +1,7 @@
+dataset:
+  script_path: ../datasets/covid19.py
+model:
+  script_path: ../models/model_pickle.py
+train:
+  script_path: ../train/train.py
+  artifacts_path: ../artifacts/cifar10_opt/
